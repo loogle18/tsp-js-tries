@@ -1,0 +1,8 @@
+*
+!.gitignore
+!main-*.js
+!shared.js
+!package.json
+!result-*.json
+!points.txt
+!README.md
